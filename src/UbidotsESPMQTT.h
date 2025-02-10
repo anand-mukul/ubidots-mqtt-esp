@@ -27,7 +27,7 @@ Modified by: Jose Garcia
 
 #ifndef UbidotsESPMQTT_H
 #define UbidotsESPMQTT_H
-#include <ESP8266WiFi.h>
+#include <WiFi.h>
 
 #include "PubSubClient.h"
 #include "string.h"
